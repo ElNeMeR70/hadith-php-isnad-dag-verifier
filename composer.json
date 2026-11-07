@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hadith-php-isnad-dag-verifier",
+  "description": "Isnad Transmission Chain Directed Acyclic Graph Verifier (فاحص اتصال السند عبر الرسم البياني الموجه DAG)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
